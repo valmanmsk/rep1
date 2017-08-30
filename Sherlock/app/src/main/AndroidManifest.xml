@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.vmandarov.justjava">
+    package="com.example.android.sherlock">
 
     <application
         android:allowBackup="true"
@@ -16,10 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".AboutActivity"
-            android:label="@string/about_title"></activity>
-        <activity android:name=".BirthdayActivity"></activity>
+        <activity android:name=".ChooseActivity"
+            android:label="@string/choose_title"></activity>
+
     </application>
 
 </manifest>

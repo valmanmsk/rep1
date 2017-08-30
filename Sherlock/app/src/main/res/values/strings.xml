@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Шерлок</string>
+	<string name="who">Кто украл два кусочека колбаски?</string>
+    <string name="choose_title">Выбери вора</string>
+</resources>
